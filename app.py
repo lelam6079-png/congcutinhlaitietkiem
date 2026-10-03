@@ -5,7 +5,7 @@ st.image("IMG_0860.jpeg")
 # CẤU HÌNH TRANG
 # ==============================
 st.set_page_config(
-    page_title="Công cụ tính lãi tiền gửi tiết kiệm_Lê Quang Lâm"
+    page_title="Tính lãi tiền gửi tiết kiệm"
     page_icon="🏦",
     layout="centered"
 )
@@ -13,7 +13,7 @@ st.set_page_config(
 # ==============================
 # TIÊU ĐỀ
 # ==============================
-st.title("🏦 TÍNH LÃI TIỀN GỬI TIẾT KIỆM")
+st.title("🏦 CÔNG CỤ TÍNH LÃI TIỀN GỬI TIẾT KIỆM_LÊ QUANG LÂM")
 st.write("Nhập thông tin tiền gửi để tính toán tiền lãi.")
 
 st.divider()
